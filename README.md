@@ -5,7 +5,8 @@ English | [简体中文](./README.zh-CN.md)
 </h1>
 
 <p align="center">
-  personal blog, sharing something about technical knowledge that I've learned and thought about.
+  personal blog, sharing something about technical knowledge that I've learned and thought about. 
+  <a href="https://github.com/EmilyYoung71415/blog/issues">Discussion</a>
 </p>
 
 

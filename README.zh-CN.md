@@ -6,6 +6,7 @@
 
 <p align="center">
   个人技术博客，分享一些我的技术知识和思考
+  <a href="https://github.com/EmilyYoung71415/blog/issues">讨论区</a>
 </p>
 
 
