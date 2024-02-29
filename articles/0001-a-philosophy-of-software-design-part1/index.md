@@ -93,4 +93,6 @@ For example, I once encountered an "unknown unknown" pitfall: when reusing a log
 
 Now that we understand the reasons behind "bad code," the next step is to consider: how can we reduce the complexity of software design?
 
+[Discussion](https://github.com/EmilyYoung71415/blog/issues/1)
+
 See you in the next article! 👋🏻
